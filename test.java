@@ -12,6 +12,7 @@ public class test{
 
     public static void Test1(){
         System.out.println("uasdkfjbcaoin");
+        System.out.println("push2start");
         System.out.println("tes ini hara");
     }
 
