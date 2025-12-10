@@ -18,4 +18,8 @@ public class test{
     public static void tesAly(){
         System.out.println("Tes Aly pake y");
     }
+
+    public static void testIlham(){
+        System.out.println("test ilham lagi");
+    }
 }
