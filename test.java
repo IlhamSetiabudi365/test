@@ -2,6 +2,7 @@ public class test{
     public static void main(String[] args){
         System.out.println("this is a test");
         System.out.println("this is another test");
+        System.out.println("udajhscia");
     }
 
     public static void Test(){
@@ -10,10 +11,14 @@ public class test{
 
     public static void Test1(){
         System.out.println("uasdkfjbcaoin");
+<<<<<<< HEAD
+        System.out.println("ilham");
+=======
         System.out.println("tes ini hara");
     }
 
     public static void tesAly(){
         System.out.println("Tes Aly pake y");
+>>>>>>> d921334f33b831112d096ffc4dc01653e597e19a
     }
 }
