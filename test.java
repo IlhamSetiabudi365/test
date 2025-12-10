@@ -7,4 +7,8 @@ public class test{
     public static void Test(){
         System.out.println("uasdkfjbcaoin");
     }
+
+    public static void Test1(){
+        System.out.println("uasdkfjbcaoin");
+    }
 }
