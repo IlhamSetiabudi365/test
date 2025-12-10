@@ -3,4 +3,8 @@ public class test{
         System.out.println("this is a test");
         System.out.println("this is another test");
     }
+
+    public static void Test(){
+        System.out.println("uasdkfjbcaoin");
+    }
 }
