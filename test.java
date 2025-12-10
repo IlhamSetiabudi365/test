@@ -7,18 +7,15 @@ public class test{
 
     public static void Test(){
         System.out.println("uasdkfjbcaoin");
+        System.out.println("udashfbcaio");
     }
 
     public static void Test1(){
         System.out.println("uasdkfjbcaoin");
-<<<<<<< HEAD
-        System.out.println("ilham");
-=======
         System.out.println("tes ini hara");
     }
 
     public static void tesAly(){
         System.out.println("Tes Aly pake y");
->>>>>>> d921334f33b831112d096ffc4dc01653e597e19a
     }
 }
