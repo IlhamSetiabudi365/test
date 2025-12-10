@@ -11,5 +11,6 @@ public class test{
 
     public static void Test1(){
         System.out.println("uasdkfjbcaoin");
+        System.out.println("push2start");
     }
 }
