@@ -23,5 +23,6 @@ public class test{
     public static void testIlham(){
         System.out.println("test ilham lagi");
         System.out.println("test ilham lagi 2");
+        System.out.println("soduiahbnclik");
     }
 }
