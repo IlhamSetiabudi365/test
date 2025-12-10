@@ -10,5 +10,6 @@ public class test{
 
     public static void Test1(){
         System.out.println("uasdkfjbcaoin");
+        system.out.println("tes ini hara");
     }
 }
