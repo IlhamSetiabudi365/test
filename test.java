@@ -1,6 +1,6 @@
 public class test{
     public static void main(String[] args){
-        System.out.println("this is a test");
+        System.out.println("this is a cat");
         System.out.println("this is another test");
         System.out.println("udajhscia");
     }
@@ -11,5 +11,6 @@ public class test{
 
     public static void Test1(){
         System.out.println("uasdkfjbcaoin");
+        System.out.println("hello pls");
     }
 }
