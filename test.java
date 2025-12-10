@@ -12,4 +12,8 @@ public class test{
         System.out.println("uasdkfjbcaoin");
         System.out.println("tes ini hara");
     }
+
+    public static void tesAly(){
+        System.out.println("Tes Aly pake y");
+    }
 }
