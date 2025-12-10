@@ -15,5 +15,6 @@ public class test{
 
     public static void tesAly(){
         System.out.println("Tes Aly pake y");
+        System.out.println("tes aja");
     }
 }
