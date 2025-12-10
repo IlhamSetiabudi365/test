@@ -4,4 +4,8 @@ public class test{
         System.out.println("this is another test");
         System.out.println("udajhscia");
     }
+
+    public static void Test(){
+        System.out.println("uasdkfjbcaoin");
+    }
 }
