@@ -7,6 +7,7 @@ public class test{
 
     public static void Test(){
         System.out.println("uasdkfjbcaoin");
+        System.out.println("udashfbcaio");
     }
 
     public static void Test1(){
